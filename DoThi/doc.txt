@@ -1,0 +1,13 @@
+    Khai niem co ban ve ly thuyet do thi
+    1.Đơn đò thị vô hướng
+        G = <V,E> gồm V là tập hợp các đỉnh ,E là tập các cặp
+        không co thứ tự gồm 2 phần tử khác nhau của V gọi la các cạnh
+    2.Đa đò thị vô hướng G = <V,E> gồm V là tập các đỉnh ,E là họ các cặp khong có thứ tự gồm 2 phần tử khác nhau
+        của V gọi là các cặp cạnh.Hai cacnhj s1,s2 được gọi là cạnh bội nếu chúng cùng tương ứng vs 1 cặp đỉnh
+    
+4 case :
++ đơn
++ đa
++ có hướng
++ vô hướng
+https://drive.google.com/drive/folders/1NjNPIOHNx-bKKYldtTDx_d36kVcshz4r
